@@ -1,0 +1,20 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [PewCB.Blank3x3.PrjPcb]
+   Generated File[PewCB.Blank3x3_Copper_Signal_Top.gbr]
+   Generated File[PewCB.Blank3x3_Copper_Signal_Bot.gbr]
+   Generated File[PewCB.Blank3x3_Soldermask_Bot.gbr]
+   Generated File[PewCB.Blank3x3_Paste_Bot.gbr]
+   Generated File[PewCB.Blank3x3_Paste_Top.gbr]
+   Generated File[PewCB.Blank3x3_Soldermask_Top.gbr]
+   Generated File[PewCB.Blank3x3_Profile.gbr]
+   Generated File[PewCB.Blank3x3_NPTH_Drill.gbr]
+   Generated File[PewCB.Blank3x3_PTH_Drill.gbr]
+   Generated File[PewCB.Blank3x3.EXTREP]
+   Generated File[PewCB.Blank3x3.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 16:15:11 On 24.11.2024
